@@ -1,4 +1,4 @@
--- hide.lat / maximum / 61483b67d30e
+-- DeadSecure 
 local ji01lj=(getfenv and getfenv(1)) or _ENV or _G
 local LOi1lllLjll,iII1iooioLL1=string.byte,string.char
 local function LjOiIjjlli(LILO00,jl0L1lLoiljoL)
